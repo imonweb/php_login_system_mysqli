@@ -1,1 +1,1 @@
-PHP Login System using MySQLi
+PHP MySQLi Login System with email verification
